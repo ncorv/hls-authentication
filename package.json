@@ -1,0 +1,15 @@
+{
+  "name": "hls-authorization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "child-process": "latest",
+    "crypto-js": "^3.1.9-1",
+    "express": "latest",
+    "express-promise-router": "latest",
+    "node": "^12.2.0",
+    "request-ip": "^2.1.3"
+  }
+}

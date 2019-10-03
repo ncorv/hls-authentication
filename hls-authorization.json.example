@@ -1,0 +1,11 @@
+{
+  "port": "",
+  "proxy_url": "",
+  "hls_path": "",
+  "key_path": "",
+  "auth_key": "",
+  "ssl_key": "",
+  "ssl_cert": "",
+  "ssl_ca": "",
+  "ACAO": ""
+}
