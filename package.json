@@ -6,7 +6,7 @@
   "dependencies": {
     "body-parser": "latest",
     "child-process": "latest",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^3.2.1",
     "express": "latest",
     "express-promise-router": "latest",
     "node": "^12.2.0",
